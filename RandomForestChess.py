@@ -20,6 +20,7 @@ import joblib
 scaler = StandardScaler()
 
 df = pd.read_csv('./data/2016_CvH.csv') 
+df = df.dropna()
 
 # get only the first 5000 rows
 df = df.head(5000)
