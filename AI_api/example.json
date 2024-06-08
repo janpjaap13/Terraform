@@ -1,0 +1,50 @@
+[
+  {
+    "White Elo": 1000,
+    "Black Elo": 1300,
+    "White RD": 200,
+    "Black RD": 350
+  },
+  {
+    "White Elo": 2000,
+    "Black Elo": 1300,
+    "White RD": 300,
+    "Black RD": 350
+  },
+  {
+    "White Elo": 2100,
+    "Black Elo": 2300,
+    "White RD": 250,
+    "Black RD": 350
+  },
+  {
+    "White Elo": 2500,
+    "Black Elo": 1800,
+    "White RD": 500,
+    "Black RD": 123
+  },
+  {
+    "White Elo": 3000,
+    "Black Elo": 1300,
+    "White RD": 270,
+    "Black RD": 312
+  },
+  {
+    "White Elo": 1000,
+    "Black Elo": 1300,
+    "White RD": 255,
+    "Black RD": 123
+  },
+  {
+    "White Elo": 1000,
+    "Black Elo": 1300,
+    "White RD": 333,
+    "Black RD": 345
+  },
+  {
+    "White Elo": 1000,
+    "Black Elo": 1300,
+    "White RD": 222,
+    "Black RD": 341
+  }
+]
